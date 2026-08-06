@@ -1,0 +1,7 @@
+// Single-line comment
+int main() {
+    /* Multi-line
+       comment */
+    float val = 12.5;
+    if (val >= 10) return 1;
+}
