@@ -1,0 +1,5 @@
+// Single line comment
+int a = 10;
+/* Multi line 
+   comment */
+float b = 20.5;
